@@ -1,0 +1,7 @@
+# Generated on 2026-11-05
+*.jpg binary
+*.yml linguist-detectable=false
+src/**/*.ts linguist-detectable
+public/index.html linguist-vendored
+public/**/*.html linguist-vendored
+# eof 2ba47a43
