@@ -1,0 +1,8 @@
+build/
+.pnpm-store/
+.env
+npm-debug.log*
+*.log
+.cache/
+.DS_Store
+node_modules/
